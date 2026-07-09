@@ -12,7 +12,6 @@ Passionate about creating modern, responsive, and user-friendly web applications
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **React, Next.js, Tailwind CSS, JavaScript, TypeScript**
 * 💻 Frontend Web Developer
 * 🎨 UI/UX Designer
 * 🖌️ Graphic Designer
@@ -95,7 +94,7 @@ Passionate about creating modern, responsive, and user-friendly web applications
 ## 📫 Connect With Me
 
 * Email: iengabdifatah@gmail.com
-* LinkedIn: https://linkedin.com/in/yourname
+* face: https://www.facebook.com/share/1DxZkjW8Yo/
 * Portfolio: https://profile-website-flax.vercel.app/
 
 ---
