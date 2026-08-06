@@ -1,103 +1,59 @@
 # Hi 👋, I'm Eng. Abdi Fatah Ibrahim
 
-<h3 align="center">
-Frontend Developer | UI/UX Designer | Graphic Designer | Basic Computer Instructor
-</h3>
+### Frontend Developer
 
-<p align="center">
-Passionate about creating modern, responsive, and user-friendly web applications.
-</p>
+I am a passionate Frontend Developer who enjoys building modern, responsive, and user-friendly web applications. I am currently focused on React and Vite, and my long-term goal is to become a Full Stack Developer.
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Frontend Web Developer
-* 🎨 UI/UX Designer
-* 🖌️ Graphic Designer
-* 📚 Basic Computer Skills
-* 🎯 Goal: Become a Full Stack Developer
-* ⚡ Love building clean and modern websites
+- 💻 Frontend Developer
+- 🌱 Currently learning React, Vite, and modern web development
+- 🎯 Goal: Become a Full Stack Developer
+- 📍 Based in Somalia
+- 📚 Always learning and improving my development skills
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
-</p>
-
-### Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,js,react,vite,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=engabdifatah12&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
----
+### 🔹 Git & GitHub Bootcamp
+https://github.com/goobolabs/git-github-bootcamp
 
-## 🔥 GitHub Streak
+### 🔹 GitHub Practice
+https://github.com/engabdifatah12/git-github-practice
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
+### 🔹 Portfolio Website
+https://profile-website-flax.vercel.app/
 
 ---
 
 ## 📫 Connect With Me
 
-* Email: iengabdifatah@gmail.com
-* face: https://www.facebook.com/share/1DxZkjW8Yo/
-* Portfolio: https://profile-website-flax.vercel.app/
+- 📧 Email: iengabdifatah@gmail.com
+- 🌐 Portfolio: https://profile-website-flax.vercel.app/
+- 📘 Facebook: https://www.facebook.com/share/1DxZkjW8Yo/
 
 ---
 
-## 💡 Favorite Quote
+## 💡 Goals
 
-> "Code. Learn. Build. Never Stop Improving."
+- 🚀 Become a Full Stack Developer
+- 📖 Learn new technologies every day
+- 🤝 Contribute to Open Source projects
+- 💼 Build real-world web applications
 
 ---
 
-⭐ Thank you for visiting my profile!
+> **"Code. Learn. Build. Never Stop Improving."**
+
+⭐ Thanks for visiting my GitHub profile!
