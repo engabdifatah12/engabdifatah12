@@ -29,11 +29,15 @@ I am a passionate Frontend Developer who enjoys building modern, responsive, and
 ### 🔹 Git & GitHub Bootcamp
 https://github.com/goobolabs/git-github-bootcamp
 
-### 🔹 GitHub Practice
-https://github.com/engabdifatah12/git-github-practice
+### 🔹 Git & GitHub Practice
+https://github.com/engabdifatah12/git-githup-ls
 
-### 🔹 Portfolio Website
+### 🔹 Personal Portfolio Website
+https://github.com/engabdifatah12/profile-website
+
+### 🔹 Live Portfolio
 https://profile-website-flax.vercel.app/
+
 
 ---
 
