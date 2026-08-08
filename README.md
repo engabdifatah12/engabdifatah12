@@ -2,19 +2,7 @@
 
 ### Frontend Developer
 
-I am a passionate Frontend Developer who enjoys building modern, responsive, and user-friendly web applications. I am currently focused on React and Vite, and my long-term goal is to become a Full Stack Developer.
-
----
-
-## 🚀 About Me
-
-- 💻 Frontend Developer
-- 🌱 Currently learning React, Vite, and modern web development
-- 🎯 Goal: Become a Full Stack Developer
-- 📍 Based in Somalia
-- 📚 Always learning and improving my development skills
-
----
+I build modern and responsive web applications with React and Vite. My goal is to become a Full Stack Developer.
 
 ## 🛠 Skills
 
@@ -22,42 +10,16 @@ I am a passionate Frontend Developer who enjoys building modern, responsive, and
   <img src="https://skillicons.dev/icons?i=html,js,react,vite,git,github" />
 </p>
 
----
+## 📂 Projects
 
-## 📂 Featured Projects
+- 🔹 [Git & GitHub Practice](https://github.com/engabdifatah12/git-githup-ls)
+- 🔹 [Portfolio Website](https://github.com/engabdifatah12/profile-website)
+- 🔹 [Live Portfolio](https://profile-websires.netlify.app/)
 
-### 🔹 Git & GitHub Bootcamp
-https://github.com/goobolabs/git-github-bootcamp
+## 📫 Connect
 
-### 🔹 Git & GitHub Practice
-https://github.com/engabdifatah12/git-githup-ls
+- 📧 [Email](mailto:iengabdifatah@gmail.com)
+- 🌐 [Portfolio](https://profile-websires.netlify.app/)
+- 📘 [Facebook](https://www.facebook.com/share/1DxZkjW8Yo/)
 
-### 🔹 Personal Portfolio Website
-https://github.com/engabdifatah12/profile-website
-
-### 🔹 Live Portfolio
-https://profile-website-flax.vercel.app/
-
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: iengabdifatah@gmail.com
-- 🌐 Portfolio: https://profile-website-flax.vercel.app/
-- 📘 Facebook: https://www.facebook.com/share/1DxZkjW8Yo/
-
----
-
-## 💡 Goals
-
-- 🚀 Become a Full Stack Developer
-- 📖 Learn new technologies every day
-- 🤝 Contribute to Open Source projects
-- 💼 Build real-world web applications
-
----
-
-> **"Code. Learn. Build. Never Stop Improving."**
-
-⭐ Thanks for visiting my GitHub profile!
+> **Code. Learn. Build. Never Stop Improving.**
